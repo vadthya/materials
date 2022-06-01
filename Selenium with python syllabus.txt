@@ -1,0 +1,188 @@
+Selenium with Python Syllabus:
+
+1) Python Basics:
+
+Intoroduction to Python:
+ 
+Installation
+Python variables,Keywords,Literals
+Data Types 
+- List
+- Tuple
+- String
+- Numbers
+- Set
+- Dictionary
+Conditional Statements in Python
+-if
+-elif
+-else
+Python Loops
+-for
+-while
+Functions in Python 
+Object Oriented Programming
+File Handling in Python
+Python Exception Handling
+
+----------------------------------------------------------------------------------------
+2) Selenium Concepts:
+
+Introduction
+-Components
+-Features
+-Uses and Limitations
+Installation
+Pycharm Installation 
+Configuration of Python for Selenium
+Working with Selenium Webdriver with Python
+Run Tests in Chrome, IE, FireFox
+Using Selenium to write tests
+Locating Elements
+Locating by Id
+Locating by Name
+Locating by XPath
+Locating Hyperlinks by Link Text
+Locating Elements by Tag Name
+Locating Elements by Class Name
+Locating Elements by CSS Selectors
+Webdriver Commands
+Navigating 
+Waits
+-Explicit Waits
+-Implicit Waits
+Drop Down handling
+Drag and drop
+Handling Alert Pop ups 
+Windows handling in Python 
+Frames Handling in Python 
+Cookies
+Handling Mouse Actions
+Scroll WebPages 
+Capturing Screenshots with Selenium
+Working with Reading and Writing Execl Sheet with Openpyxl
+Logging
+
+--------------------------------------------------------------------------
+
+3) Approach and Frameworks:
+
+Unit Test Framework 
+
+Introduction to unittest framework
+Methods of Unit Test Framework
+Assertions in UnitTest
+Skipping Tests in UnitTest
+Ruuning Test Suite in UnitTest Framework
+----------------------------------------------------------------------------
+
+Page Object Model
+
+- Creating Locators
+- Creating Methods
+Data Driven Approach with Python Selenium Webdriver
+BDD Framework:
+- Writing Feature Files
+- Creating Step Definition Files
+- Running Tests
+----------------------------------------------------------------------------
+Pytest Framework: 
+
+-Pytest Framework Introduction
+Pytest Fixtures
+Parametrize Pytest
+Running Multiple tests
+Running Parellel Tests 
+Pytest  Framework + HTML Reports
+Pytest Framework + Page Object Model + HTML 
+Pytest + Page Object Model + Allure Reports 
+---------------------------------------------------------------------------
+
+ROBOT Framework 
+--------------------------------------------------------------------------
+Automation Project Creation in Pycharm:
+Folder and Packages:
+-Page Classes
+- Test Scripts
+-Utlities
+-Logs
+-Screenshots
+-Reports
+-----------------------------------------------------------------------------
+
+
+GIT and JENKINS:
+- Creating Local Repository
+- Add,Push,Pull,Checkout, Commit Code
+- Configure Project in Jekins
+- Build Project in Jenkins
+----------------------------------------------------------------------------
+
+4) Real Time Project with Python Selenium Webdriver
+----------------------------------------------------------------------------
+
+5) API Testing:
+
+API Testing using POSTMAN 
+API Testing with Python ( REST API )
+- Working with json files
+- Conversion of json to dictionary and viceversa
+HTTP Methods
+-GET, PUT, POST , DELETE
+-Variables, Collections, Workspace
+- Validating Status Code, Content, Headers
+- Using jsonpath to Validate the response body
+------------------------------------------------------------------------------
+6. Agile Methodology:  - JIRA
+------------------------------------------------------------------------------
+7. Manual Testing:
+------------------------------------------------------------------------------
+
+Python Programming --> Programs + Theory
+( Geeks for Geeks --> Python Programs ) ---> 40
+Selenium ( Framework + Concepts ) ---> 30
+GIT/JENKINS + Agile  --->  20
+API + DB + Manual    --->  10
+-------------------------------------------------------------------------------
+
+Interviews Preparation
+-------------------------------------------------------------------------------
+
+1- > python
+1 -> selenium basics
+2 -> frameworks and RL
+1 -> API testing
+1 -> Practise
+----------------------
+35 working --->
+
+---------------------------------------------------------------------------------
+35-45 Working Days 
+
+----------------------------------------------------------------------------------
+
+Test Engineer
+QA
+Automation Test Engineer
+SDET -> Creating Framework, Enhancing Existing Framework
+--------------------------------
+Azure + Devops ---> Project
+GIT/ Jenkins
+--------------------------------
+QA Automation
+
+Automation + Manual
+
+Naukari ---> Python. selenium webdriver
+
+--------------------------------------------------------------------------------
+
+Durgasoft Team
+Contact: 7207212428
+
+
+50+ HR Contacts 
+---------------------------------------------------------------------------------
+
+
+                                                                      

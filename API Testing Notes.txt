@@ -1,0 +1,87 @@
+API Testing:
+
+POSTMAN:
+Rest API ( JSON/XML) , SOAP API ( XML )
+Installed 
+Created the collection
+We have added a Request
+HTTP Requests:
+
+1.GET -> url to server get you the response
+2. POST -> Post is create data 
+3. PUT -> Update the existing data 
+4. DELETE
+5.PATCH
+
+
+https://www.getpostman.com/collections/e1b478f1dea5ddd05708
+
+Status Code:
+20 series 
+200 -> Ok
+201 -> Created
+404-> Not Found
+
+
+200 series -> 
+400 series ->
+300 -> redirection
+500 -> internal server error
+
+
+API Testing: (url), POSTMAN
+
+1. API -> Application Interface 
+
+( It is a 3rd party source where client request to server and server responds to client)
+
+Client and Server Architecture
+
+============================================================================
+
+HTTP REQUESTS:
+
+GET -> Get the response from server ->  Response Body, status code -200, Header
+
+POST --> Create some data into server --> Pay Load , Response , Ststus code - 201, Headers
+
+
+PUT -> Update/Replace -> Update the content -> Pay load, Response 
+
+fy -> Update the content not necessiarly the whole content
+
+DELETE -> To DELETE the API Content
+
+===============================================================================
+
+API Responses ---> XML , JSON
+
+xml , json ---> REST API
+
+xml --> Soup API
+
+====================================================================================
+
+Status Codes:
+
+200  -> OK
+
+201 -> Created
+
+404 -> Not Found
+
+204 ->No Content
+
+302-> Redirection
+
+405 -> Method not allowed
+
+202 -> Accepted
+
+400 -> Bad request
+
+500 -> Internal Server error
+
+=================================================================================
+
+

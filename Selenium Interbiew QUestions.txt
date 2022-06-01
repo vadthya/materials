@@ -1,0 +1,62 @@
+
+https://global.gotomeeting.com/join/523676637
+
+Automation Framework Folder Structure:
+1. Configurations --> Configuration Parser [ Common Properties ] -> Username, Password, url
+2. Page Classes --> [ Methods, Locators]
+3. Test Cases -> All the Functionality Test Cases, Test Base Class ( Driver Initilization ),
+ Tags( Regression, Sanity ,Smoke) ->ini 
+4. Screenshots -> Screenshots --> get_screenshot_as_file()
+5. Reports ---> Allure Reports, html
+6. Utilities --> Common Methods --> Files--> Reading Configuration ,Excel -> Read, Write (readConfig,Execl Pro
+7. Test Data -> Excel 
+8. Logs-> Critical, Pass
+
+
+Important Interview Questions
+
+1. 	How to reverse a String in python? [ : :-1]
+2.  how to find the count of words in the given string?
+Example:
+"hello everyone hello how r you and you"
+3.  How to remove the duplicate words in the string ?
+4. How to remove the duplicate characters in the string?
+5. Get the count of alphabets and digits in my string?
+Example: "hello123"
+6. Fibnoci series, prime numbers, sum of numbers, mul of numbers,
+Amstrong number,largest numbers, smallest numbers, second largest number
+even numbers, odd numbers, palindrome
+7. Find the most frequent repeated element
+8. Replace all occurance of substring 
+#frequency of elements in String
+#reverse of words / 
+# reverse of characters of string
+# Count of digits and characters in string
+# count of vowels
+#oops mandatory ---> where you have used oops concepts in your project
+#Exception handling --> in project
+# Using functions pass list dynamically swap first element and last element
+#dynamic input list ---> even elements should be printed in seperate list
+# non repated characters
+# webtables in selenium
+# common exceptions in selenium - stale element exceptions
+# handling windows, handling popups,alerts,frames,xpath
+# explain framework 
+#JIRA ( Agile)
+#. Compare 2 strings and give the unique words
+a="hello how r u i'm good"
+b="hey how r u are you good"
+o/p:
+"hello i'm hey are"
+#. d1={"a":"abc","b":"bcd", "c":"cef"}
+d2={"efg":"hij","bcd":"pqr","abc":"fgh"}
+
+Selenium Questions:
+
+1. Difference between implicit wait and explicit wait?
+Implicit wait -- It waits until some time before raises an exception.It is applicable for all the webelements 
+in the webpage
+Explicit wait- It waits for some seconds before raises an Exception but it is applicable for a particular
+webelement with some condition applicable
+
+
